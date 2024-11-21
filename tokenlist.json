@@ -56,46 +56,6 @@
       "address": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
       "logoURI": "https://raw.githubusercontent.com/leviathanostos/token-lists/main/logos/USDT.svg",
       "categories": ["Bridged", "StableCoin"]
-    },
-    {
-      "name": "LayerZero • Wrapped Ether",
-      "symbol": "zWETH",
-      "decimals": 6,
-      "address": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WETH",
-      "logoURI": "https://raw.githubusercontent.com/leviathanostos/token-lists/main/logos/WETH.png",
-      "categories": ["Bridged"]
-    },
-    {
-      "name": "LayerZero • Wrapped BTC",
-      "symbol": "zWBTC",
-      "decimals": 6,
-      "address": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WBTC",
-      "logoURI": "https://raw.githubusercontent.com/leviathanostos/token-lists/main/logos/WBTC.png",
-      "categories": ["Bridged"]
-    },
-    {
-      "name": "LayerZero • Wrap USDM",
-      "symbol": "WUSDM",
-      "decimals": 8,
-      "address": "0x42d77150661adcc068603bde2453bea1e22fa7ca08878ec88b7e077709c01171::oft::WUSDMOFT",
-      "logoURI": "https://raw.githubusercontent.com/leviathanostos/token-lists/main/logos/WUSDM.png",
-      "categories": ["Bridged"]
-    },
-    {
-      "name": "Thala Token",
-      "symbol": "THL",
-      "decimals": 8,
-      "address": "0x7fd500c11216f0fe3095d0c4b8aa4d64a4e2e04f83758462f2b127255643615::thl_coin::THL",
-      "logoURI": "https://raw.githubusercontent.com/leviathanostos/token-lists/main/logos/THL.png",
-      "categories": ["Native"]
-    },
-    {
-      "name": "Cellana Finance",
-      "symbol": "CELL",
-      "decimals": 8,
-      "address": "0x2ebb2ccac5e027a87fa0e2e5f656a3a4238d6a48d93ec9b610d570fc0aa0df12",
-      "logoURI": "https://raw.githubusercontent.com/leviathanostos/token-lists/main/logos/CELL.png",
-      "categories": ["Native"]
     }
   ]
 }
